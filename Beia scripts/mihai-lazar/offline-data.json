@@ -1,0 +1,29 @@
+[
+    {
+        "sensor_id": "sensor_01",
+        "timestamp": "2025-06-26T16:53:02.946087",
+        "temperature": 29.82,
+        "humidity": 45.85,
+        "location": "Office Room",
+        "unit_temp": "\u00b0C",
+        "unit_humidity": "%"
+    },
+    {
+        "sensor_id": "sensor_01",
+        "timestamp": "2025-06-26T16:53:13.020380",
+        "temperature": 28.16,
+        "humidity": 31.77,
+        "location": "Office Room",
+        "unit_temp": "\u00b0C",
+        "unit_humidity": "%"
+    },
+    {
+        "sensor_id": "sensor_01",
+        "timestamp": "2025-06-26T16:53:23.082697",
+        "temperature": 19.42,
+        "humidity": 38.29,
+        "location": "Office Room",
+        "unit_temp": "\u00b0C",
+        "unit_humidity": "%"
+    }
+]
